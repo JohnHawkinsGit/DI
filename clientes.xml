@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+	<cliente>
+		<nombre>Jorge</nombre>
+		<apellido>Maria</apellido>
+		<telefono>777888999</telefono>
+	</cliente>
+	<cliente>
+		<nombre>Carlos</nombre>
+		<apellido>Teso</apellido>
+		<telefono>111222333</telefono>
+	</cliente>
+	<cliente>
+		<nombre>Jose</nombre>
+		<apellido>Blanco</apellido>
+		<telefono>444555666</telefono>
+	</cliente>
+</clientes>
